@@ -1,0 +1,15 @@
+.galery-section {
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+
+.first-image {
+    width: 40%;
+}
+
+.teste {
+    border-style: solid; 
+}

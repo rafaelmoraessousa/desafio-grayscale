@@ -1,0 +1,28 @@
+@import url('./menu.css');
+@import url('./initial-banner.css');
+@import url('./galery.css');
+
+
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito' ;
+    
+}
+
+/* body {
+    background-image: url(../imgs/bg-masthead.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background; */
+/* } */
+a {
+    font-weight: bold;
+}
+
+
+  
+
+
