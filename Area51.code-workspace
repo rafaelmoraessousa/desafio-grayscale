@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "desafio-grayscale"
+		},
+		{
+			"path": "mywebsite"
+		},
+		{
+			"path": "heroway-javascript"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "heroway-javascript"
+	}
+}
