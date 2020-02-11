@@ -1,7 +1,8 @@
 @import url('./menu.css');
 @import url('./initial-banner.css');
 @import url('./galery.css');
-
+@import url('./subscribe.css');
+@import url('./footer.css');
 
 @import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
 
@@ -12,12 +13,6 @@
     
 }
 
-/* body {
-    background-image: url(../imgs/bg-masthead.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background; */
-/* } */
 a {
     font-weight: bold;
 }

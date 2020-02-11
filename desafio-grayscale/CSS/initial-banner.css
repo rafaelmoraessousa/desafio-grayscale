@@ -1,6 +1,6 @@
 .background-image {
     height: 800px;
-    background-image: linear-gradient(to bottom, rgba(255,255,255,0), #161616), url(../imgs/bg-masthead.jpg);
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), #161616), url(../imgs/bg-masthead.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
