@@ -1,0 +1,36 @@
+@import url('./header.css');
+@import url('./banner.css');
+@import url('./portfolio.css');
+@import url('./banner-sobre.css');
+@import url('./star-bar.css');
+@import url('./contato.css');
+@import url('./page-footer.css');
+@import url('./copyright.css');
+
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap");
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+}
+
+.title {
+    text-transform: uppercase;
+}
+
+.white {
+    color: white;
+}
+
+.black {
+    color: #2c3e50;
+}
+
+.banner-titles {
+    font-size: 50px;
+}
+
