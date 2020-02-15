@@ -1,41 +1,13 @@
 .footer-section {
-    display: flex;
-    justify-content: center;
     background-color: #161616;
-    height: 500px;
 }
 
-.footer-section p {
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: 0.8em;
-    letter-spacing: 0.2rem;
-
+.footer-cards {
+    
 }
 
 .bold-dash {
-    width: 50px;
-    height: 4px;
-    background-color: #64a19d;
 
-}
-/* 
-.footer-cards {
-    text-align: center;
-    display: flex;
-    align-items: center;
-} */
-
-.card {
-    background-color: white;
-}
-
-.card-ajust {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.fas {
-    color: #64a19d;
+    
+    
 }

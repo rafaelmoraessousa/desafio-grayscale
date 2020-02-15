@@ -7,7 +7,10 @@
 @import url('./page-footer.css');
 @import url('./copyright.css');
 
-@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap");
+@font-face {
+    font-family: QuickSand;
+    src: url(../fonts/QuickSand_Bold.otf);
+}
 
 
 
@@ -15,7 +18,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Montserrat;
+    font-family: QuickSand;
 }
 
 .title {
